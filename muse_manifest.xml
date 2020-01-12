@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="canandle.com" resolutions="1x" timestamp="1578587153857">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="canandle.github.io" resolutions="1x" timestamp="1578831692511">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_c-__.css" crc="3851793482" ref="installations:scenery:architecture"/>
-    <file name="master_b-__.css" crc="3887229126" ref="sophomore:first-grade"/>
-    <file name="master_a-__.css" crc="4083720196" ref="photography:index:work"/>
+    <file name="master_c-__.css" crc="3851793482" ref="scenery:architecture:installations"/>
+    <file name="master_b-__.css" crc="3887229126" ref="first-grade:sophomore"/>
+    <file name="master_a-__.css" crc="527504308" ref="photography:index:work"/>
     <file name="photography.css" crc="4233581958" ref="photography"/>
-    <file name="installations.css" crc="40366442" ref="installations"/>
-    <file name="sophomore.css" crc="3817729535" ref="sophomore"/>
     <file name="index.css" crc="4233581958" ref="index"/>
-    <file name="scenery.css" crc="120556426" ref="scenery"/>
     <file name="first-grade.css" crc="4019184652" ref="first-grade"/>
     <file name="work.css" crc="4233581958" ref="work"/>
-    <file name="architecture.css" crc="386407612" ref="architecture"/>
+    <file name="scenery.css" crc="4164783241" ref="scenery"/>
+    <file name="architecture.css" crc="4235417148" ref="architecture"/>
+    <file name="installations.css" crc="3910974442" ref="installations"/>
+    <file name="sophomore.css" crc="3817729535" ref="sophomore"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:photography:sophomore:first-grade:scenery:installations:architecture"/>
@@ -29,8 +29,8 @@
   <folder name="images">
     <file name="dsc_0058_1.jpg" crc="4259543975" ref="index:sophomore:scenery">
       <caption webpage="index" alt=""/>
-      <caption webpage="sophomore" alt=""/>
       <caption webpage="scenery" alt=""/>
+      <caption webpage="sophomore" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:work:photography:sophomore:first-grade:scenery:installations:architecture"/>
     <file name="u98.png" crc="3938966161" ref="index:work:photography"/>
@@ -211,61 +211,61 @@
     <file name="dsc_0163_1-crop-u1861.jpg" crc="4277320761" seo="true" ref="installations">
       <caption webpage="installations" alt=""/>
     </file>
-    <file name="img_397160x45.jpg" crc="3843175922" seo="true" ref="architecture">
+    <file name="img_397160x45.jpg" crc="4029263912" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_396060x45.jpg" crc="4141457491" seo="true" ref="architecture">
+    <file name="img_396060x45.jpg" crc="4052018123" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_366960x45.jpg" crc="3986529991" seo="true" ref="architecture">
+    <file name="img_366960x45.jpg" crc="79004034" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_333060x45.jpg" crc="4115005060" seo="true" ref="architecture">
+    <file name="img_333060x45.jpg" crc="3965795318" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_331160x45.jpg" crc="264880315" seo="true" ref="architecture">
+    <file name="img_331160x45.jpg" crc="501567183" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_333160x45.jpg" crc="4267161484" seo="true" ref="architecture">
+    <file name="img_333160x45.jpg" crc="4203747383" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_333860x45.jpg" crc="293660284" seo="true" ref="architecture">
+    <file name="img_333860x45.jpg" crc="4283229901" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_307460x45.jpg" crc="227038683" seo="true" ref="architecture">
+    <file name="img_307460x45.jpg" crc="381997479" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_297960x45.jpg" crc="478434445" seo="true" ref="architecture">
+    <file name="img_297960x45.jpg" crc="267284303" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_293660x45.jpg" crc="388111046" seo="true" ref="architecture">
+    <file name="img_293660x45.jpg" crc="222856220" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_394360x45.jpg" crc="3928545901" seo="true" ref="architecture">
+    <file name="img_394360x45.jpg" crc="136942980" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_367360x45.jpg" crc="414762916" seo="true" ref="architecture">
+    <file name="img_367360x45.jpg" crc="452916562" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_369560x45.jpg" crc="4004265975" seo="true" ref="architecture">
+    <file name="img_369560x45.jpg" crc="3771108969" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_326560x45.jpg" crc="3989475835" seo="true" ref="architecture">
+    <file name="img_326560x45.jpg" crc="4233329671" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_321560x45.jpg" crc="4272934310" seo="true" ref="architecture">
+    <file name="img_321560x45.jpg" crc="241872277" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_343560x45.jpg" crc="116868274" seo="true" ref="architecture">
+    <file name="img_343560x45.jpg" crc="58740280" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_324360x45.jpg" crc="266018755" seo="true" ref="architecture">
+    <file name="img_324360x45.jpg" crc="3766760920" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_317860x45.jpg" crc="215733416" seo="true" ref="architecture">
+    <file name="img_317860x45.jpg" crc="512910569" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_298560x45.jpg" crc="3940636102" seo="true" ref="architecture">
+    <file name="img_298560x45.jpg" crc="536820566" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
     <file name="img_3066-crop-u2487.jpg" crc="3923226203" seo="true" ref="architecture">
@@ -328,16 +328,16 @@
     <file name="img_2936.jpg" crc="4021033752" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="img_3066-crop-u2481.jpg" crc="3814254041" seo="true" ref="architecture">
+    <file name="img_3066-crop-u2481.jpg" crc="4195449264" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="118297338" seo="true" mt="1578586370036" redirect="true"/>
-  <file name="work.html" crc="113448636" seo="true" mt="1578586370036" redirect="true"/>
-  <file name="photography.html" crc="404719718" seo="true" mt="1578586370036" redirect="true"/>
+  <file name="index.html" crc="3842536411" seo="true" mt="1578831634640" redirect="true"/>
+  <file name="work.html" crc="3985576792" seo="true" mt="1578831634640" redirect="true"/>
+  <file name="photography.html" crc="162911469" seo="true" mt="1578831634640" redirect="true"/>
   <file name="sophomore.html" crc="4121340128" seo="true" mt="1578586224727" redirect="true"/>
   <file name="first-grade.html" crc="202795914" seo="true" mt="1578586224727" redirect="true"/>
-  <file name="scenery.html" crc="380055519" seo="true" mt="1578586937361" redirect="true"/>
-  <file name="installations.html" crc="340868773" seo="true" mt="1578586253081" redirect="true"/>
-  <file name="architecture.html" crc="3778499769" seo="true" mt="1578586898018" redirect="true"/>
+  <file name="scenery.html" crc="4043509660" seo="true" mt="1578586937361" redirect="true"/>
+  <file name="installations.html" crc="158277727" seo="true" mt="1578586253081" redirect="true"/>
+  <file name="architecture.html" crc="40173123" seo="true" mt="1578586898018" redirect="true"/>
 </manifest>

@@ -1,297 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://canandle.com/index.html</loc>
+    <loc>http://canandle.github.io/index.html</loc>
+    <lastmod>2020-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://canandle.github.io/work.html</loc>
+    <lastmod>2020-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://canandle.github.io/photography.html</loc>
+    <lastmod>2020-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://canandle.github.io/sophomore.html</loc>
     <lastmod>2020-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://canandle.com/work.html</loc>
+    <loc>http://canandle.github.io/first-grade.html</loc>
     <lastmod>2020-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://canandle.com/photography.html</loc>
-    <lastmod>2020-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://canandle.com/sophomore.html</loc>
-    <lastmod>2020-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://canandle.com/first-grade.html</loc>
-    <lastmod>2020-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://canandle.com/scenery.html</loc>
+    <loc>http://canandle.github.io/scenery.html</loc>
     <lastmod>2020-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0115-crop-u1134.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0115-crop-u1134.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0002-crop-u1268.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0002-crop-u1268.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/0f7baa01-f739-4d24-9d49-b045dd5918cf60x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/0f7baa01-f739-4d24-9d49-b045dd5918cf60x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_323260x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_323260x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0114-crop-u1248.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0114-crop-u1248.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_356860x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_356860x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_312260x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_312260x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_231260x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_231260x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0115-crop-u1125.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0115-crop-u1125.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0114-crop-u1242.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0114-crop-u1242.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0002-crop-u1262.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0002-crop-u1262.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3568.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3568.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/0f7baa01-f739-4d24-9d49-b045dd5918cf.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/0f7baa01-f739-4d24-9d49-b045dd5918cf.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3122.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3122.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3232.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3232.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_2312.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_2312.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://canandle.com/installations.html</loc>
+    <loc>http://canandle.github.io/installations.html</loc>
     <lastmod>2020-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0059-crop-u1455.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0059-crop-u1455.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0057-crop-u1593.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0057-crop-u1593.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0048-crop-u1678.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0048-crop-u1678.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0044-crop-u1718.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0044-crop-u1718.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0039-crop-u1758.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0039-crop-u1758.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0159-crop-u1818.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0159-crop-u1818.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0163_1-crop-u1867.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0163_1-crop-u1867.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0058_1-crop-u1573.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0058_1-crop-u1573.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0053-crop-u1613.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0053-crop-u1613.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0047-crop-u1698.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0047-crop-u1698.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0042-crop-u1738.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0042-crop-u1738.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0003-crop-u1778.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0003-crop-u1778.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0150-crop-u1838.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0150-crop-u1838.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0059-crop-u1446.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0059-crop-u1446.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0058_1-crop-u1567.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0058_1-crop-u1567.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0057-crop-u1587.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0057-crop-u1587.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0053-crop-u1607.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0053-crop-u1607.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0048-crop-u1672.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0048-crop-u1672.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0047-crop-u1692.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0047-crop-u1692.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0044-crop-u1712.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0044-crop-u1712.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0042-crop-u1732.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0042-crop-u1732.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0039-crop-u1752.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0039-crop-u1752.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0003-crop-u1772.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0003-crop-u1772.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0159-crop-u1812.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0159-crop-u1812.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0150-crop-u1832.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0150-crop-u1832.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/dsc_0163_1-crop-u1861.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/dsc_0163_1-crop-u1861.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://canandle.com/architecture.html</loc>
+    <loc>http://canandle.github.io/architecture.html</loc>
     <lastmod>2020-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://canandle.com/images/img_397160x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_397160x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_396060x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_396060x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_366960x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_366960x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_333060x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_333060x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_331160x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_331160x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_333160x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_333160x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_333860x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_333860x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_307460x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_307460x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_297960x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_297960x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_293660x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_293660x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_394360x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_394360x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_367360x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_367360x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_369560x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_369560x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_326560x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_326560x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_321560x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_321560x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_343560x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_343560x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_324360x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_324360x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_317860x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_317860x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_298560x45.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_298560x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3066-crop-u2487.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3066-crop-u2487.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3971.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3971.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3943.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3943.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3960.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3960.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3673.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3673.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3669.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3669.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3695.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3695.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3330.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3330.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3265.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3265.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3311.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3311.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3215.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3215.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3331.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3331.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3435.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3435.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3338.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3338.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3243.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3243.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3074.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3074.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3178.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3178.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_2979.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_2979.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_2985.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_2985.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_2936.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_2936.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://canandle.com/images/img_3066-crop-u2481.jpg</image:loc>
+      <image:loc>http://canandle.github.io/images/img_3066-crop-u2481.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
